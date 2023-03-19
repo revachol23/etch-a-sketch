@@ -1,0 +1,14 @@
+#main {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16,5vw);
+    gap: 1px;
+    
+}
+
+
+.grid {
+    background-color: coral;
+    border: 1px solid black;
+    padding: 5px
+}
