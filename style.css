@@ -6,9 +6,16 @@
     
 }
 
+.canvasBtn {
+    padding: 10px;
+}
 
 .grid {
-    background-color: coral;
+    background-color: rgb(255, 255, 255);
     border: 1px solid black;
     padding: 5px
+}
+
+.grid:hover{
+    background-color: black;
 }
